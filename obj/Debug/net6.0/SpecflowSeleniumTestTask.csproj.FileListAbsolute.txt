@@ -111,3 +111,8 @@ C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask
 C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\obj\Debug\net6.0\SpecflowSeleniumTestTask.pdb
 C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\obj\Debug\net6.0\SpecflowSeleniumTestTask.genruntimeconfig.cache
 C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\obj\Debug\net6.0\ref\SpecflowSeleniumTestTask.dll
+C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Andy\Documents\GitHub\SpecflowSeleniumTestTask\SpecflowSeleniumTestTask\bin\Debug\net6.0\WebDriver.dll
